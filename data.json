@@ -968,6 +968,6 @@
     "description": " Pull requests that have been scripted or automated. Pull requests that hurt a project more than they help. Pull requests that focus on minor changes such as whitespace, indenting, typos, and optimizing assets and images",
     "reference": "https://modtoberfest.com/",
     "dateAdded": "2023-10-15T15:56:00.000Z",
-    "tags": ["stickers", "pins"]
+    "tags": ["stickers", "pins", "hacktober"]
   },
 ]
